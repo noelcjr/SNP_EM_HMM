@@ -3,6 +3,7 @@
 Machine Learning for automated single nucleotide polimorphism array
 This software have a few bugs and works under careful selection of 
 some of its parameters.
+
 Known Bugs:
 * Selection of best model using vitervi's algorithm is faulty. It works most of the time but fails in some instances.
 
